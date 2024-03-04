@@ -1,0 +1,7 @@
+C:\Users\1395367\Desktop\bup\Pr-21_13.1_ZelinaEkaterina\bin\Debug\Pr-21_13.1_ZelinaEkaterina.exe.config
+C:\Users\1395367\Desktop\bup\Pr-21_13.1_ZelinaEkaterina\bin\Debug\Pr-21_13.1_ZelinaEkaterina.exe
+C:\Users\1395367\Desktop\bup\Pr-21_13.1_ZelinaEkaterina\bin\Debug\Pr-21_13.1_ZelinaEkaterina.pdb
+C:\Users\1395367\Desktop\bup\Pr-21_13.1_ZelinaEkaterina\obj\Debug\Pr-21_13.1_ZelinaEkaterina.csproj.AssemblyReference.cache
+C:\Users\1395367\Desktop\bup\Pr-21_13.1_ZelinaEkaterina\obj\Debug\Pr-21_13.1_ZelinaEkaterina.csproj.CoreCompileInputs.cache
+C:\Users\1395367\Desktop\bup\Pr-21_13.1_ZelinaEkaterina\obj\Debug\Pr-21_13.1_ZelinaEkaterina.exe
+C:\Users\1395367\Desktop\bup\Pr-21_13.1_ZelinaEkaterina\obj\Debug\Pr-21_13.1_ZelinaEkaterina.pdb
